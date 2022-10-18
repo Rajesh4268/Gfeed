@@ -1,0 +1,80 @@
+2022-06-06 14:09:54,728 - demo.Log -INFO - Inserting Test data1 urls in collection no 1: https://www.bannerbuzz.com/zip-ties/p
+2022-06-06 14:09:54,737 - demo.Log -INFO - Inserting Test data1 urls in collection no 2: https://www.bannerbuzz.com/wall-brackets/p
+2022-06-06 14:09:54,739 - demo.Log -INFO - Inserting Test data1 urls in collection no 3: https://www.bannerbuzz.com/skyhooks/p
+2022-06-06 14:09:54,742 - demo.Log -INFO - Inserting Test data1 urls in collection no 4: https://www.bannerbuzz.com/pole-brackets/p
+2022-06-06 14:09:54,743 - demo.Log -INFO - Inserting Test data1 urls in collection no 5: https://www.bannerbuzz.com/nylon-rope/p
+2022-06-06 14:09:55,798 - demo.Log -INFO - Inserting Test data2 urls in collection no 1: https://www.bestofsigns.com/octagon-stop-no-entry-aluminum-sign-hip-reflective.html
+2022-06-06 14:09:55,799 - demo.Log -INFO - Inserting Test data2 urls in collection no 2: https://www.bestofsigns.com/stop-no-student-drop-off-pick-up-corflute-sign-non-reflective.html
+2022-06-06 14:09:55,799 - demo.Log -INFO - Inserting Test data2 urls in collection no 3: https://www.bestofsigns.com/stop-no-student-drop-off-pick-up-corflute-sign-reflective.html
+2022-06-06 14:09:55,800 - demo.Log -INFO - Inserting Test data2 urls in collection no 4: https://www.bestofsigns.com/visitors-report-to-main-office-corflute-sign-non-reflective.html
+2022-06-06 14:09:55,800 - demo.Log -INFO - Inserting Test data2 urls in collection no 5: https://www.bestofsigns.com/visitors-report-to-main-office-corflute-sign-reflective.html
+2022-06-06 14:09:58,433 - demo.Log -INFO - Url from Test data1 s.no: 1 https://www.bannerbuzz.com/zip-ties/p
+2022-06-06 14:09:58,433 - demo.Log -INFO - Start time of Url from Test data2 s.no: 1 https://www.bestofsigns.com/octagon-stop-no-entry-aluminum-sign-hip-reflective.html
+2022-06-06 14:10:08,454 - demo.Log -INFO - Test data2 total TIme taken in secs: 1 10
+2022-06-06 14:10:09,100 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:09,194 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:09,241 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:09,309 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:09,464 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:09,466 - demo.Log -INFO - Start time of Url from Test data2 s.no: 2 https://www.bestofsigns.com/octagon-stop-no-entry-aluminum-sign-hip-reflective.html
+2022-06-06 14:10:10,101 - demo.Log -INFO - Test data 1 Time taken in secs: 1 11
+2022-06-06 14:10:10,221 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:10,265 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:10,363 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:10,399 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:10,457 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:10,457 - demo.Log -INFO - Url from Test data1 s.no: 2 https://www.bannerbuzz.com/zip-ties/p
+2022-06-06 14:10:14,411 - demo.Log -INFO - Test data2 total TIme taken in secs: 2 4
+2022-06-06 14:10:14,430 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:14,441 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:14,468 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:14,478 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:14,494 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:14,495 - demo.Log -INFO - Start time of Url from Test data2 s.no: 3 https://www.bestofsigns.com/octagon-stop-no-entry-aluminum-sign-hip-reflective.html
+2022-06-06 14:10:15,483 - demo.Log -INFO - Test data 1 Time taken in secs: 2 5
+2022-06-06 14:10:15,505 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:15,518 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:15,534 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:15,542 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:15,551 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:15,551 - demo.Log -INFO - Url from Test data1 s.no: 3 https://www.bannerbuzz.com/zip-ties/p
+2022-06-06 14:10:18,900 - demo.Log -INFO - Test data2 total TIme taken in secs: 3 4
+2022-06-06 14:10:18,922 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:18,937 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:18,954 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:18,971 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:18,987 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:18,988 - demo.Log -INFO - Start time of Url from Test data2 s.no: 4 https://www.bestofsigns.com/octagon-stop-no-entry-aluminum-sign-hip-reflective.html
+2022-06-06 14:10:20,773 - demo.Log -INFO - Test data 1 Time taken in secs: 3 5
+2022-06-06 14:10:20,783 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:20,791 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:20,801 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:20,807 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:20,812 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:20,813 - demo.Log -INFO - Url from Test data1 s.no: 4 https://www.bannerbuzz.com/zip-ties/p
+2022-06-06 14:10:23,243 - demo.Log -INFO - Test data2 total TIme taken in secs: 4 4
+2022-06-06 14:10:23,266 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:23,281 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:23,295 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:23,305 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:23,312 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:23,312 - demo.Log -INFO - Start time of Url from Test data2 s.no: 5 https://www.bestofsigns.com/octagon-stop-no-entry-aluminum-sign-hip-reflective.html
+2022-06-06 14:10:25,356 - demo.Log -INFO - Test data 1 Time taken in secs: 4 4
+2022-06-06 14:10:25,364 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:25,368 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:25,374 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:25,380 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:25,386 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:25,386 - demo.Log -INFO - Url from Test data1 s.no: 5 https://www.bannerbuzz.com/zip-ties/p
+2022-06-06 14:10:27,712 - demo.Log -INFO - Test data2 total TIme taken in secs: 5 4
+2022-06-06 14:10:27,734 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:27,745 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:27,754 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:27,762 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:27,771 - demo.Log -INFO - Data is copied to Excel Result Sheet 2
+2022-06-06 14:10:29,129 - demo.Log -INFO - Test data 1 Time taken in secs: 5 3
+2022-06-06 14:10:29,145 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:29,157 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:29,168 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:29,177 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
+2022-06-06 14:10:29,186 - demo.Log -INFO - Data is copied to Excel Result Sheet 1
